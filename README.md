@@ -2,6 +2,8 @@
 
 # Pica Dry Pencil Wall Mount
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 This is a remix of the really nice model made by [@GHPMDESIGN_253104](https://www.printables.com/@GHPMDESIGN_253104) here:  https://www.printables.com/model/510398-skadis-pica-penmarker-holder
 
 The original design linked above is really nice because you can put the pencil in from the top and it will orientate the pencil as it slides in.  Also you can remove the pencil by pulling from the bottom or lifting from the top.
@@ -37,3 +39,12 @@ Used about 3g of filament or 1m of 1.75mm of filament.  These settings might be 
 ![picture 5](images/picture_05.png)
 ![picture 6](images/picture_06.png)
 ![picture 7](images/picture_07.png)
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
