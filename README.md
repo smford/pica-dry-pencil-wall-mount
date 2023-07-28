@@ -1,8 +1,8 @@
-![picture of pica in wall mount](images/picture_01.png)
-
 # Pica Dry Pencil Wall Mount
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+![picture of pica in wall mount](images/picture_01.png)
 
 This is a remix of the really nice model made by [@GHPMDESIGN_253104](https://www.printables.com/@GHPMDESIGN_253104) here:  https://www.printables.com/model/510398-skadis-pica-penmarker-holder
 
